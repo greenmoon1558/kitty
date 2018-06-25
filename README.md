@@ -7,7 +7,7 @@ Kitti is an abbreviation for **Ki**ds Ac**t**ivi**t**y T**i**mer and also sounds
 
 Kitti is an app that will help your child understand time by visualizing it rather than by just talking about it. You and your child choose a task, reward and activity and set the timer. A progress bar and countdown will visualize the remaining fun time. The basic idea is that the longer your child takes to complete a task the less fun time she/he will have.
 
-![dash.png](https://greenmoon1558-kitty.herokuapp.com/dash.png)
+![dash.png](https://raw.githubusercontent.com/greenmoon1558/kitty/master/public/img/dash.png)
 
 ## How does it work?
 
